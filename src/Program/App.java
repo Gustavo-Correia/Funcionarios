@@ -3,7 +3,7 @@ import Enumeracoes.nome;
 
 import java.util.Scanner;
 
-import Cliente.client;
+
 public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
